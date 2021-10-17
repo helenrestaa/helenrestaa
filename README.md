@@ -11,7 +11,7 @@ I am graduated in Systems Analysis and Development (2018), always searching for 
 - 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/helenrestaa) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](helenresta.s@gmail.com)
-|---|---|---|---|---|---|
+
 
 ----
 
@@ -20,13 +20,3 @@ I am graduated in Systems Analysis and Development (2018), always searching for 
 .    
    
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helenrestaa&hide=["stars"]&show_icons=true)
-
--------
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
-HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
-Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
-Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
